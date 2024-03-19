@@ -26,7 +26,8 @@ Produced a 1-pager dashboard using Tableau.
 
 Tableau: [Link](https://public.tableau.com/app/profile/youssuf.haddad3286/viz/LondonBikeRidesDashboard_17108549392220/Dashboard?publish=yes)
 
-![londonbikes](https://github.com/youssufhaddad/London-Bikes-Ride/assets/139700595/121eb454-746e-44ab-8dcb-411c81a25612)
+![londonbikerides](https://github.com/youssufhaddad/London-Bikes-Ride/assets/139700595/5d53e106-b37a-4ba4-b814-09497f38f96e)
+
 
 
 
