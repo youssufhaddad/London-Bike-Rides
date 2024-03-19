@@ -10,13 +10,15 @@ Conducted simple data wrangling and data cleaning:
 - Renamed the columns to a proper names
 - Changed the humidity values to percentage
 - Created a season dictionary so that we can map the integers 0-3 to the actual written values
+  
   0 spring , 1 summer , 2 fall , 3 winter .
-- Created a weather dictionary so that we can map the integers to the actual written values 
+- Created a weather dictionary so that we can map the integers to the actual written values
+   
   1 Clear  , 2 scattered clouds, 3 Broken clouds , 4 Cloudy ,  7 Rain , 10 rain with thunderstorm , 26 = snowfall .
 
 📍 Jupyter script: [Notebook](https://github.com/youssufhaddad/London-Bikes-Ride/blob/main/london_bikes.ipynb)
 
-📍 Clean Data: [london_merged.csv](https://github.com/youssufhaddad/London-Bikes-Ride/blob/main/london_merged.csv)
+📍 Cleaned Data: [london_bikes_final.xlsx](https://github.com/youssufhaddad/London-Bikes-Ride/blob/main/london_bikes_final.xlsx)
 
 ## 📊 Visualization
 
