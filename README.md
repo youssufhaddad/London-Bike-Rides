@@ -1,5 +1,5 @@
 # 🚲 London Bike Rides
-
+Interactive Dashboards containing Moving average London bike rides from 4 Jan 2015, to 3 Jan 2017 and the user can choose the time period by only dragging and holding the Moving Average pane, also a heatmap showing " Temperature vs wind speed ".
 ## 📚 About Data
 
 Historical data for bike sharing in London 'Powered by TfL Open Data'
